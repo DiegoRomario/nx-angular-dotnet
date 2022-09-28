@@ -91,5 +91,8 @@
       "style": "scss"
     }
   },
-  "defaultProject": "demo-webapp"
+  "defaultProject": "demo-webapp",
+  "plugins": [
+    "@nx-dotnet/core"
+  ]
 }
